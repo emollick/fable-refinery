@@ -78,3 +78,7 @@ Saves live in your browser's localStorage.
 
 *SimRefinery* and *SimCity* are trademarks of their respective owners. This
 project is a fan reconstruction for historical and educational interest.
+
+## License
+
+[MIT](LICENSE).
